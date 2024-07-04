@@ -87,7 +87,7 @@ async def fetch_proxies(socks4_url, socks5_url):
     return socks4_proxies + socks5_proxies
 
 async def main():
-    _user_id = '53757e45-7ff9-4b99-bca2-a05a4d60e7a6'   # Replace Your User ID HERE 
+    _user_id = '585ae141-fb5a-4131-a0e4-e145ba2dcb9b'   # Replace Your User ID HERE 
     socks4_url = 'http://list.didsoft.com/get?email=rhdx37@gmail.com&pass=u2pzns&pid=socks4100&showcountry=no&version=socks4'
     socks5_url = 'http://list.didsoft.com/get?email=rhdx37@gmail.com&pass=u2pzns&pid=socks4100&showcountry=no&version=socks5'
 
